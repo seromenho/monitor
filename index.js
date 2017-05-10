@@ -28,7 +28,7 @@ function monitor() {
       console.log('Poop');
 
       notifier.notify({
-        'title': 'Nick got crazy!',
+        'title': 'Hugo got crazy!',
         'message': 'We are f*cked!'
       });
     });
